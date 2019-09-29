@@ -1,0 +1,239 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mys",
+				"mysql_fetch_array"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"arti",
+				"articulos"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Tesis/php/registro.php",
+		"/C/xampp/htdocs/Tesis/bootstrap/js/bootstrap.js",
+		"/C/xampp/htdocs/Tesis/php/buscarmat.php",
+		"/C/xampp/htdocs/Tesis/bmaterial.php",
+		"/C/xampp/htdocs/Tesis/bsector.php",
+		"/C/xampp/htdocs/Tesis/php/buscarsec.php",
+		"/C/xampp/htdocs/Tesis/php/buscar.php",
+		"/C/xampp/htdocs/Tesis/bperfil.php",
+		"/C/xampp/htdocs/Tesis/php/login.php",
+		"/C/xampp/htdocs/Tesis/php/navbar.php",
+		"/C/xampp/htdocs/Tesis/buscar.php",
+		"/C/xampp/htdocs/Tesis/cmaterial.php",
+		"/C/xampp/htdocs/Tesis/laeventos.php",
+		"/C/xampp/htdocs/Tesis/lamateriales.php",
+		"/C/xampp/htdocs/Tesis/lmaterial.php",
+		"/C/xampp/htdocs/Tesis/php/amateriales.php",
+		"/C/xampp/htdocs/Tesis/amateriales.php",
+		"/C/xampp/htdocs/Tesis/php/asector.php",
+		"/C/xampp/htdocs/Tesis/asector.php",
+		"/C/xampp/htdocs/Tesis/php/aeventos.php",
+		"/C/xampp/htdocs/Tesis/aeventos.php",
+		"/C/xampp/htdocs/Tesis/eventos.php",
+		"/C/xampp/htdocs/Tesis/home.php",
+		"/C/xampp/htdocs/Tesis/php/cmaterial.php",
+		"/C/xampp/htdocs/Tesis/lsector.php",
+		"/C/xampp/htdocs/Tesis/levento.php",
+		"/C/xampp/htdocs/Tesis/php/registrom.php",
+		"/C/xampp/htdocs/Tesis/php/lmaterial.php",
+		"/C/Users/Johan/AppData/Local/Temp/Rar$DRa0.008/tabla/index.php",
+		"/C/xampp/htdocs/Tesis/php/logout.php",
+		"/C/xampp/htdocs/Tesis/php/conexion.php",
+		"/C/xampp/htdocs/Tesis/modelo.php",
+		"/C/xampp/htdocs/Tesis/controlador.php",
+		"/C/xampp/htdocs/Tesis/php/modelo.php",
+		"/C/xampp/htdocs/Tesis/php/controlador.php",
+		"/C/Users/Johan/AppData/Local/Temp/Rar$DRa0.741/mvc/vista.php",
+		"/C/Users/Johan/AppData/Local/Temp/Rar$DRa0.632/mvc/modelo.php",
+		"/C/Users/Johan/AppData/Local/Temp/Rar$DRa0.432/mvc/controlador.php",
+		"/C/xampp/htdocs/Tesis/php/registros.php",
+		"/C/xampp/htdocs/Tesis/sector.php",
+		"/C/xampp/htdocs/Tesis/php/registroe.php",
+		"/C/xampp/htdocs/Tesis/registro.php",
+		"/C/xampp/htdocs/Tesis/material.php",
+		"/C/xampp/htdocs/Tesis/index.php",
+		"/C/xampp/htdocs/Tesis/checklogin.php",
+		"/C/xampp/htdocs/Tesis/login.html",
+		"/C/xampp/htdocs/Tesis/intropage.php",
+		"/C/xampp/htdocs/Tesis/register.php",
+		"/C/xampp/htdocs/Tesis/connection.php",
+		"/C/xampp/htdocs/Tesis/login.php",
+		"/C/xampp/htdocs/Tesis/index.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index2.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
