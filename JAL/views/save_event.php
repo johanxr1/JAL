@@ -157,7 +157,7 @@
     <script src="../controllers/picker-handler.js"></script>
     <script src="../controllers/save_event-controller.js"></script> 
     <script src="../assets/js/date.js"></script>
-    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyDJNsGW8oZ-TltrAqmXq1kiJjSKJqah2vU&libraries=places&callback=initMap"></script>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3&key=&libraries=places&callback=initMap"></script>
     <script>
         $(document).ready(function(){
             $(".dropdown-button").dropdown();
@@ -166,25 +166,3 @@
     </script>
 </body>   
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
