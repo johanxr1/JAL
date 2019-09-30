@@ -156,7 +156,7 @@
 	<script src="assets/js/handlebars.min.js"></script>
 	<script src="assets/js/js.cookie.min.js"></script>	
 	<script src="controllers/events-handler.js"></script>
-    <script  src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyDJNsGW8oZ-TltrAqmXq1kiJjSKJqah2vU&libraries=places&callback=initMap"></script>
+    <script  src="https://maps.googleapis.com/maps/api/js?v=3&key=&libraries=places&callback=initMap"></script>
 	<script src="assets/js/snazzy-info-window.min.js"></script>
 	
 	
